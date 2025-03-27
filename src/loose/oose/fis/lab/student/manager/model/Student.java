@@ -20,7 +20,7 @@ public class Student {
         return "Student{" +
                 "firstName='" + firstName + '\'' +
                 ", lastName='" + lastName + '\'' +
-                ", age=" + age +
+                ", age=" + age + "123" +
                 ", meanGrade=" + meanGrade +
                 '}';
     }
